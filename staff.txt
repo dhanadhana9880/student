@@ -1,0 +1,8 @@
+staff 
+
+staff name 
+staff id
+staff address
+teaching quality
+experience
+teaching subject
